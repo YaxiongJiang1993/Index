@@ -1,0 +1,107 @@
+body, div, img, nav, ul, li, p{
+	margin:0;
+	padding:0;
+}
+body{
+	color:#000;
+	font-size:18px;
+	background:#F0F8FF;
+}
+.top_color{
+	height:200px;
+	background:#D8BFD8;
+}
+.top_box{
+	width:990px;
+	height:65px;
+	margin:0 auto;
+}
+.system_title{
+	width:990px;
+	height:50px;
+	font-size:36px;
+	color:green;
+	text-align:center;
+    margin:0 auto;
+}
+.middle_line{
+	height:30px;
+	background:#FFF0F5;
+}
+.main_body{
+	width:990px;
+	height:360px;
+	margin:0 auto;
+}
+.message{
+	float:left;
+	width:200px;
+	height:360px;
+	text-align:center;
+	margin:0;
+	background:#ADD8E6;
+	
+}
+#welcome{
+    margin-top:20px;
+	font-size:30px;
+	color:#EE82EE;
+}
+#user_name{
+	margin:10px auto;
+	font-size:20px;
+	color:#9370DB;
+}
+.message a{
+	text-decoration:none;
+	color:#2E8B57;
+	font-size:20px;
+	font-weight:bold;
+}
+.message a:hover{
+	color:#00FA9A;
+} 
+.multi_dis{
+	width:790px;
+	height:360px;
+	float:left;
+	background:#98F898;
+}
+.multi_info{
+	margin:20px auto;
+}
+.multi_info th{
+	font-size:24px;
+	color:green;
+}
+.multi_info td{
+	width:100px;
+	height:20px;
+	color:#FF1493;
+}
+.multi_info .multi_title{
+	font-size:20px;
+	color:#9932CC;
+	font-weight:bold;
+}
+.main_footer{
+	height:40px;
+	background:#FFF0F5;
+}
+.footer_top_box{
+	height:10px;
+}
+.main_footer .footer_text{
+	width:990px;
+	height:20px;
+	margin:0 auto;
+	text-align:center;
+	font-size:16px;
+	color:#8A2BE2;
+}
+a{
+	text-decoration:none;
+	font-size:20px;
+	font-weight:bold;
+	color:#008B8B;
+}
